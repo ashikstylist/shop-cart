@@ -1,0 +1,20 @@
+*{
+    font-family: 'Roboto Condensed';
+}
+
+::-webkit-scrollbar {
+    width: 7px;
+    height: 7px;
+}
+
+ ::-webkit-scrollbar-track {
+    background: #fafafa;
+}
+
+ ::-webkit-scrollbar-thumb {
+    background: #641fff;
+}
+
+ ::-webkit-scrollbar-thumb:hover {
+    background: #222;
+}
