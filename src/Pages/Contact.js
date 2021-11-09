@@ -1,9 +1,12 @@
 import React from 'react'
+import Header from '../Components/Header'
+import HeadTitle from '../Components/HeadTitle'
 
 function Contact() {
     return (
         <div>
-            <h1>Contact</h1>
+            <Header/>
+            <HeadTitle/>
         </div>
     )
 }
